@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AutoAid Admin & Architecture",
+  "description": "AutoAid is an on-demand vehicle repair and roadside assistance platform. This workspace contains the Admin Panel implementation, System Architecture documentation, Backend Schemas, and Mobile Code snippets.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
